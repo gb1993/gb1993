@@ -7,7 +7,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gb1993&layout=compact&hide_border=true&title_color=8b008b&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-![Contribuições][![Gabriel's github activity graph](https://activity-graph.herokuapp.com/graph?username=gb1993&theme=rogue)
+![Contribuições][![Gabriel's github activity graph](https://activity-graph.herokuapp.com/graph?username=gb1993&theme=rogue&color=8b008b)
 
 ## Entre em Contato
 <div align="center">
