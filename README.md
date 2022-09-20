@@ -27,7 +27,7 @@
   
   
 ### Studying in this moment:
-
+[POO][SOLID]asdasdsa
 
 <div align="center">
   <br>
