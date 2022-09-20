@@ -7,7 +7,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gb1993&layout=compact&hide_border=true&title_color=8b008b&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=gb1993&theme=gotham&hide_border=true&area=true)
+![Contribuições](https://github.com/gb1993/github-readme-activity-graph)
 
 ## Entre em Contato
 <div align="center">
