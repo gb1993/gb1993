@@ -9,8 +9,8 @@
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=gb1993&theme=gotham&hide_border=true&area=true)
 
+## Entre em Contato
 <div align="center">
-  ##Entre em Contato
   <a href="https://instagram.com/bielsbranco" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div>
   
