@@ -11,7 +11,7 @@
 
 
 <div align="center">
-  <h3>Entre em Contato:</h3>
+  <h2>Entre em Contato:</h2>
   <a href="https://linkedin.com/in/gabriel-branco/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -24,7 +24,7 @@
 </div>
 
 <div align="center">
-  <h3>Principais Tecnologias:</h3>
+  <h2>Principais Tecnologias:</h2>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
   </a>
@@ -58,7 +58,7 @@
  </div>
  
 <div align="center">
-  <h3>Ferramentas:</h3>
+  <h2>Ferramentas:</h2>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/>   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
@@ -82,7 +82,7 @@
    </div>
    
 <div align="center">
-  <h3>Estudando:</h3>
+  <h2>Estudando:</h2>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="50" height="50"/>
   </a>
