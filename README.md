@@ -97,7 +97,7 @@
 
 <div align="center">
   <br>
-    <p align="centre"><b>Visitantes</b></p>
+    <h2>Visitantes</h2>
     <p align="center"><img align="center" src="https://profile-counter.glitch.me/{gb1993}/count.svg" /></p> 
   <br>
 </div>
