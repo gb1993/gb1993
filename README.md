@@ -9,8 +9,9 @@
 
 ![Gabriel's github activity graph](https://activity-graph.herokuapp.com/graph?username=gb1993&theme=rogue&color=8b008b&bg_color=none&hide_border=true)
 
-### Entre em Contato
+
 <div align="center">
+  <h3>Entre em Contato:</h3>
   <a href="https://linkedin.com/in/gabriel-branco/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -21,10 +22,9 @@
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </div>
-  
 
-### Principais Tecnologias:
-<div align="center>
+<div align="center">
+  <h3>Principais Tecnologias:</h3>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
@@ -56,9 +56,9 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>       </a>
  </div>
-    
-### Ferramentas:
-<div align="center>
+ 
+<div align="center">
+  <h3>Ferramentas:</h3>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
@@ -81,8 +81,8 @@
   </a>
    </div>
    
-### Estudando:
-<div align="center>
+<div align="center">
+  <h3>Estudando:</h3>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
   </a>
