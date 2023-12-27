@@ -12,7 +12,7 @@
   <a href="https://linkedin.com/in/gabriel-branco/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://api.whatsapp.com/send/?phone=55021973183070&text=Sou%20Gabriel%20e%20estou%20ansioso%20para%20conversarmos.&type=phone_number&app_absent=0" target="_blank">
+  <a href="https://api.whatsapp.com/send/?phone=55021982126050&text=Sou%20Gabriel%20e%20estou%20ansioso%20para%20conversarmos.&type=phone_number&app_absent=0" target="__blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </div>
